@@ -1,4 +1,4 @@
-module dmp.timex.go
+module github.com/boostgo/dmp.timex.go
 
 go 1.23.0
 
